@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\metodlar\bin\Debug\net7.0\metodlar.exe
+C:\Users\MONSTER\GitProject\metodlar\bin\Debug\net7.0\metodlar.deps.json
+C:\Users\MONSTER\GitProject\metodlar\bin\Debug\net7.0\metodlar.runtimeconfig.json
+C:\Users\MONSTER\GitProject\metodlar\bin\Debug\net7.0\metodlar.dll
+C:\Users\MONSTER\GitProject\metodlar\bin\Debug\net7.0\metodlar.pdb
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.dll
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\refint\metodlar.dll
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.pdb
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\metodlar.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\metodlar\obj\Debug\net7.0\ref\metodlar.dll
